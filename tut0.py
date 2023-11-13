@@ -9,4 +9,3 @@ chat_model = ChatOpenAI()
 
 # print(chat_model.predict('Hi how are you?'))
 print(llm.predict('Hi how are you?'))
-
